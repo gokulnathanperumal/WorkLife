@@ -69,8 +69,8 @@ namespace WorkLife
             this.label1.Font = new System.Drawing.Font("Courier New", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.DoubleClick += new System.EventHandler(this.label1_DoubleClick);
 
-            this.BackColor = System.Drawing.Color.Black;
-            this.ForeColor = System.Drawing.Color.Green;
+            this.BackColor = System.Drawing.ColorTranslator.FromHtml("#3F51B5");
+            this.ForeColor = System.Drawing.Color.White;
 
             InitializeDay();
 
