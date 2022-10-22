@@ -21,7 +21,7 @@ To classify a applications, add it's process name under one of the categories in
 3. Meeting
 4. Idle (Non Productive)
 
-Note: "*" is a wildcard which includes as other applications
+Note: "*" is the wildcard which includes all other applications
 
 ![WorkLife 6 Process Config](https://user-images.githubusercontent.com/72061169/197328638-ccf77ac1-835c-4f0b-bdfa-231a6d7af07f.png)
 
