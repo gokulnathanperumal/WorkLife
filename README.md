@@ -1,7 +1,7 @@
 # WorkLife
 A windows application to track your daily work hours to see yourself if you are work addictive or low productive and helps managing your work-life balance.
 
-[Download](https://github.com/gokulnathanperumal/WorkLife/releases/tag/v1.0.0)
+[Download WorkLife v1.0.0](https://github.com/gokulnathanperumal/WorkLife/releases/tag/v1.0.0)
 
 WorkLife application can be launched through System Tray.
 
