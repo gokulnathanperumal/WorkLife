@@ -17,7 +17,7 @@ On start of the day, user will get notified with summary of previous day, week a
 
 ![WorkLife 5 Summary](https://user-images.githubusercontent.com/72061169/197327976-8e3ca6c0-56fb-48c0-a4ff-e3ce9995349a.png)
 
-To classify a applications, add it's process name under one of the categories in ProcessConfig.json.
+To classify a application, add it's process name under one of the categories in ProcessConfig.json.
 1. Development
 2. Team Collaboration
 3. Meeting
